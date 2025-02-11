@@ -1,6 +1,7 @@
 # 💫 About Me:
 👼 Love to learn new Subjects<br>🥇 Passionate about cracking mathematical challenges<br>🏏 Enthusiastic cricket aficionado<br>🤠 Fan of Western film classics<br>🧘🏻 Have a Great Interest in Exploring Detective Novels<br>🕵️‍♂️ I'm Sherlock Holmes<br>🤔 Thinking , ☕ coffee , 🎨 Designing<br>🎮 like to play AAA Games !<br>✨ Listening Fairytale is a Heaven
 
+[![](https://visitcount.itsvg.in/api?id=thinakaranmanokaran&label=View%20Count&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thinakaranmanokaran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@thinakaran-manohar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DheenaManohar) 
