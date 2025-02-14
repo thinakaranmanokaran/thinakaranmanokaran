@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: title;
+    src: url(./assets/fonts/SF-Pro-Display-Regular.otf);
+}
+
+@font-face {
+    font-family: name;
+    src: url(./assets/fonts/SF-Grandezza-Heavy-Oblique.ttf);
+}
+
+.font-title{
+    font-family: title;
+}
+
+.font-name{
+    font-family: name;
+}
+
+.rtl{
+    direction: ltr;
+}
+
+.stroke-text {
+    -webkit-text-stroke: 1px white;
+    display: flex;
+    animation: llttrr 5s linear infinite;
+    white-space: nowrap;
+}
+
+.righttoleft {
+    display: flex;
+    animation: rrttll 5s linear infinite;
+    white-space: nowrap;
+}
+
+@keyframes rrttll {
+    0% {
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(-40%);
+    }
+}
+
+
+@keyframes llttrr {
+    0% {
+        transform: translateX(-40%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
+}
