@@ -1,5 +1,5 @@
 # 💫 About Me:
-👼 Love to learn new Subjects<br>🥇 Passionate about cracking mathematical challenges<br>🏏 Enthusiastic cricket aficionado<br>🤠 Fan of Western film classics<br>🧘🏻 Have a Great Interest in Exploring Detective Novels<br>🕵️‍♂️ I'm Sherlock Holmes<br>🤔 Thinking , ☕ coffee , 🎨 Designing<br>🎮 like to play AAA Games !<br>✨ Listening Fairytale is a Heaven
+👼 Love to learn new Subjects<br>🥇 Passionate about cracking mathematical challenges<br>🏏 Enthusiastic cricket aficionado<br>🤠 Fan of Western film classics<br>🧘🏻 Have a Great Interest in Exploring Detective Novels<br>🕵️‍♂️ I'm Sherlock Holmes<br>🤔 Thinking , ☕ coffee , 🎨 Designing<br>🎮 like to play AAA Games !<br>✨ Listening Fairytale is a Heaven 
 
 [![](https://visitcount.itsvg.in/api?id=thinakaranmanokaran&label=View%20Count&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
