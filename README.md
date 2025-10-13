@@ -1,9 +1,24 @@
-# 💫 About Me:
-👼 Love to learn new Subjects<br>🥇 Passionate about cracking mathematical challenges<br>🏏 Enthusiastic cricket aficionado<br>🤠 Fan of Western film classics<br>🧘🏻 Have a Great Interest in Exploring Detective Novels<br>🕵️‍♂️ I'm Sherlock Holmes<br>🤔 Thinking , ☕ coffee , 🎨 Designing<br>🎮 like to play AAA Games !<br>✨ Listening Fairytale is a Heaven 
+![Banner](/public/images/Banner.png)
 
-[![](https://visitcount.itsvg.in/api?id=thinakaranmanokaran&label=View%20Count&icon=6&pretty=false)](https://visitcount.itsvg.in)
+<img src="public/images/name-dark.png" class="light-mode">
+<img src="public/images/name-light.png" class="dark-mode">
 
-## 🌐 Socials:
+<br>
+<hr>
+<br>
+<p align="center">
+  <img src="public/images/about-dark.png" class="light-mode" alt="About">
+  <img src="public/images/about-light.png" class="dark-mode" alt="About">
+    <div align="center" style="font-size: 20px">🌟 I’m Thinakaran Manokaran, a creator who loves turning ideas into meaningful digital experiences. I thrive on building intuitive, impactful solutions that blend creativity with precision ✨. Always curious and driven, I embrace challenges, explore new possibilities, and aim to make every project both smart and engaging ⚡. 👼 I love to learn new subjects, 🥇 I’m passionate about cracking mathematical challenges, 🏏 an enthusiastic cricket aficionado, 🤠 a fan of Western film classics, 🧘🏻 I enjoy exploring detective novels, 🕵️‍♂️ sometimes feel like Sherlock Holmes, 🤔 constantly thinking, ☕ sipping coffee, 🎨 designing, 🎮 playing AAA games, and ✨ listening to fairytales feels like heaven.</div>
+</p>
+<br>
+<hr>
+<br>
+<p align="center">
+    <img src="public/images/contact-dark.png" alt="Contact" class="light-mode">
+    <img src="public/images/contact-light.png" alt="Contact" class="dark-mode">
+</p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thinakaranmanokaran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@thinakaran-manohar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DheenaManohar)  ![](https://komarev.com/ghpvc/?username=thinakaranmanokaran&color=AA14F0)
 
 # 💻 Tech Stack:
@@ -26,3 +41,15 @@
 [![](https://visitcount.itsvg.in/api?id=thinakaranmanokaran&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<style>
+@media (prefers-color-scheme: dark) {
+  .light-mode { display: none; }
+  .dark-mode { display: block; }
+}
+
+@media (prefers-color-scheme: light) {
+  .light-mode { display: block; }
+  .dark-mode { display: none; }
+}
+</style>
