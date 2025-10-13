@@ -18,6 +18,22 @@
     <img src="public/images/contact-dark.png" alt="Contact" class="light-mode">
     <img src="public/images/contact-light.png" alt="Contact" class="dark-mode">
 </p>
+<p align="center">
+  <picture>
+    <!-- Dark mode -->
+    <source srcset="public/images/about-dark.png" media="(prefers-color-scheme: dark)">
+    <!-- Light mode -->
+    <img src="public/images/about-light.png" alt="About" width="400">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="public/images/contact-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="public/images/contact-light.png" alt="Contact" width="300">
+  </picture>
+</p>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thinakaranmanokaran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@thinakaran-manohar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DheenaManohar)  ![](https://komarev.com/ghpvc/?username=thinakaranmanokaran&color=AA14F0)
 
