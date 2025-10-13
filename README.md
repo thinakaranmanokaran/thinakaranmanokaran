@@ -1,32 +1,33 @@
-![Banner](/public/images/Banner.png)
+<!-- Banner stays as-is -->
+<p align="center">
+  <img src="public/images/Banner.png" alt="Banner">
+</p>
 
-<img src="public/images/name-dark.png" class="light-mode">
-<img src="public/images/name-light.png" class="dark-mode">
+<!-- Name image with light/dark mode -->
+<p align="center">
+  <picture>
+    <source srcset="public/images/name-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="public/images/name-light.png" alt="Name">
+  </picture>
+</p>
 
 <br>
 <hr>
 <br>
+
+<!-- About image with light/dark mode -->
 <p align="center">
-  <img src="public/images/about-dark.png" class="light-mode" alt="About">
-  <img src="public/images/about-light.png" class="dark-mode" alt="About">
+  <picture>
+    <source srcset="public/images/about-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="public/images/about-light.png" alt="About" width="400">
+  </picture>
     <div align="center" style="font-size: 20px">🌟 I’m Thinakaran Manokaran, a creator who loves turning ideas into meaningful digital experiences. I thrive on building intuitive, impactful solutions that blend creativity with precision ✨. Always curious and driven, I embrace challenges, explore new possibilities, and aim to make every project both smart and engaging ⚡. 👼 I love to learn new subjects, 🥇 I’m passionate about cracking mathematical challenges, 🏏 an enthusiastic cricket aficionado, 🤠 a fan of Western film classics, 🧘🏻 I enjoy exploring detective novels, 🕵️‍♂️ sometimes feel like Sherlock Holmes, 🤔 constantly thinking, ☕ sipping coffee, 🎨 designing, 🎮 playing AAA games, and ✨ listening to fairytales feels like heaven.</div>
 </p>
 <br>
 <hr>
 <br>
-<p align="center">
-    <img src="public/images/contact-dark.png" alt="Contact" class="light-mode">
-    <img src="public/images/contact-light.png" alt="Contact" class="dark-mode">
-</p>
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source srcset="public/images/about-dark.png" media="(prefers-color-scheme: dark)">
-    <!-- Light mode -->
-    <img src="public/images/about-light.png" alt="About" width="400">
-  </picture>
-</p>
 
+<!-- Contact image with light/dark mode -->
 <p align="center">
   <picture>
     <source srcset="public/images/contact-dark.png" media="(prefers-color-scheme: dark)">
