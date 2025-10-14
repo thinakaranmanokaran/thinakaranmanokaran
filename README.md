@@ -20,7 +20,7 @@
     <source width="300" srcset="public/images/about-dark.png" media="(prefers-color-scheme: dark)">
     <img src="public/images/about-light.png" alt="About" width="300">
   </picture>
-    <div align="center" style="font-size: 30px">🌟 I’m Thinakaran Manokaran, a creator who loves turning ideas into meaningful digital experiences. I thrive on building intuitive, impactful solutions that blend creativity with precision ✨. Always curious and driven, I embrace challenges, explore new possibilities, and aim to make every project both smart and engaging ⚡. 👼 I love to learn new subjects, 🥇 I’m passionate about cracking mathematical challenges, 🏏 an enthusiastic cricket aficionado, 🤠 a fan of Western film classics, 🧘🏻 I enjoy exploring detective novels, 🕵️‍♂️ sometimes feel like Sherlock Holmes, 🤔 constantly thinking, ☕ sipping coffee, 🎨 designing, 🎮 playing AAA games, and ✨ listening to fairytales feels like heaven.</div>
+    <h2 align="center">🌟 I’m Thinakaran Manokaran, a creator who loves turning ideas into meaningful digital experiences. I thrive on building intuitive, impactful solutions that blend creativity with precision ✨. Always curious and driven, I embrace challenges, explore new possibilities, and aim to make every project both smart and engaging ⚡. 👼 I love to learn new subjects, 🥇 I’m passionate about cracking mathematical challenges, 🏏 an enthusiastic cricket aficionado, 🤠 a fan of Western film classics, 🧘🏻 I enjoy exploring detective novels, 🕵️‍♂️ sometimes feel like Sherlock Holmes, 🤔 constantly thinking, ☕ sipping coffee, 🎨 designing, 🎮 playing AAA games, and ✨ listening to fairytales feels like heaven.</h2>
 </p>
 
 <br>
