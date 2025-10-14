@@ -33,16 +33,16 @@
 
 <p align="center">
   <a href="https://www.instagram.com/thinakaranmanokaran" target="_blank" style="text-decoration:none;">
-    <img src="public/images/instagram.png" width="100" alt="Instagram">
+    <img src="public/images/instagram.png" width="150" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/thinakaran-manohar" target="_blank" style="text-decoration:none;">
-    <img src="public/images/linkedin.png" width="100" alt="LinkedIn">
+    <img src="public/images/linkedin.png" width="150" alt="LinkedIn">
   </a>
   <a href="https://www.thinakaran.dev" target="_blank" style="text-decoration:none;">
-    <img src="public/images/portfolio.png" width="100" alt="Portfolio">
+    <img src="public/images/portfolio.png" width="150" alt="Portfolio">
   </a>
   <a href="https://twitter.com/DheenaManohar" target="_blank" style="text-decoration:none;">
-    <img src="public/images/twitter.png" width="100" alt="Twitter">
+    <img src="public/images/twitter.png" width="150" alt="Twitter">
   </a>
 </p>
 
