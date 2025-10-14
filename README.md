@@ -31,6 +31,23 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://www.instagram.com/thinakaranmanokaran" target="_blank">
+    <img src="public/images/instagram.png" width="150" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/thinakaran-manohar" target="_blank">
+    <img src="public/images/linkedin.png" width="150" alt="LinkedIn">
+  </a>
+  <a href="https://www.thinakaran.dev" target="_blank">
+    <img src="public/images/portfolio.png" width="150" alt="Portfolio">
+  </a>
+  <a href="https://twitter.com/DheenaManohar" target="_blank">
+    <img src="public/images/twitter.png" width="150" alt="Twitter">
+  </a>
+</p>
+
+
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thinakaranmanokaran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@thinakaran-manohar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DheenaManohar)  ![](https://komarev.com/ghpvc/?username=thinakaranmanokaran&color=AA14F0)
 
@@ -64,5 +81,8 @@
 @media (prefers-color-scheme: light) {
   .light-mode { display: block; }
   .dark-mode { display: none; }
+}
+a{
+  text-decoration: none;
 }
 </style>
