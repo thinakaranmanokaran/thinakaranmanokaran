@@ -56,7 +56,7 @@
 
 <p align="center">
   <picture>
-    <source srcset="public/images/skills-dark.png" media="(prefers-color-scheme: dark)" width="300">
+    <source srcset="public/images/skills-dark.png" media="(prefers-color-scheme: dark)" width="220">
     <img src="public/images/skills-light.png" alt="Skills" width="220">
   </picture>
 </p>
