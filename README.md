@@ -90,6 +90,32 @@
   </picture>
 </p>
 
+<!-- ### 🏆 Top Repositories
+![Repositories](https://thinakaran-github.onrender.com/github-feed.svg)
+
+### 🕓 Recent Commits
+![Recent Commits](https://thinakaran-github.onrender.com/commits.svg?owner=thinakaranmanokaran&repo=LinkSet)
+
+### 🧩 Recent Events
+![Recent Events](https://thinakaran-github.onrender.com/events.svg?username=thinakaranmanokaran) -->
+
+### 🔥 Current Week Commits
+![Commit Streaks](https://thinakaran-github.onrender.com/streaks.svg?username=thinakaranmanokaran)
+
+### 🔥 Commit Streaks
+![Commit Streaks](https://thinakaran-github.onrender.com/streaks.svg?username=thinakaranmanokaran)
+
+### 🔥 Longest Streak
+![Commit Streaks](https://thinakaran-github.onrender.com/streaks.svg?username=thinakaranmanokaran)
+
+### ⭐ Total Repo Stars
+![Repository Stars](https://thinakaran-github.onrender.com/stars.svg?username=thinakaranmanokaran)
+
+### 👥 Followers
+![Followers](https://thinakaran-github.onrender.com/followers.svg?username=thinakaranmanokaran)
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=thinakaranmanokaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thinakaranmanokaran&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinakaranmanokaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
