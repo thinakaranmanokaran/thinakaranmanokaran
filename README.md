@@ -93,15 +93,15 @@
 <div align="center">
   <!-- First row -->
   <div>
-    <picture title="Hahaha">
+    <picture title="Totla Stars">
       <source srcset="https://thinakaran-github.onrender.com/light/stars.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
       <img src="https://thinakaran-github.onrender.com/dark/stars.svg?username=thinakaranmanokaran" alt="Repository Stars">
     </picture>
-    <picture>
+    <picture title="No.of Stars in Top Repo">
       <source srcset="https://thinakaran-github.onrender.com/light/top-starred.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
       <img src="https://thinakaran-github.onrender.com/dark/top-starred.svg?username=thinakaranmanokaran" alt="Top Stars">
     </picture>
-    <picture>
+    <picture title="Total Followers">
       <source srcset="https://thinakaran-github.onrender.com/light/followers.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
       <img src="https://thinakaran-github.onrender.com/dark/followers.svg?username=thinakaranmanokaran" alt="Followers">
     </picture>
@@ -109,15 +109,15 @@
 
   <!-- Second row: 3 stats -->
   <div>
-    <picture>
+    <picture title="Current Week Commits">
       <source srcset="https://thinakaran-github.onrender.com/light/current-week-commits.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
       <img src="https://thinakaran-github.onrender.com/dark/current-week-commits.svg?username=thinakaranmanokaran" alt="Current Week Commits">
     </picture>
-    <picture>
+    <picture title="Current Streak">
       <source srcset="https://thinakaran-github.onrender.com/light/streaks.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
       <img src="https://thinakaran-github.onrender.com/dark/streaks.svg?username=thinakaranmanokaran" alt="Commit Streaks">
     </picture>
-    <picture>
+    <picture title="Long Streak Maintained">
       <source srcset="https://thinakaran-github.onrender.com/light/long-streaks.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
       <img src="https://thinakaran-github.onrender.com/dark/long-streaks.svg?username=thinakaranmanokaran" alt="Longest Streak">
     </picture>
