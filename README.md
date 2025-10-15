@@ -10,11 +10,11 @@
     <img src="public/images/name-light.png" alt="Name">
   </picture>
 </p>
-<p align="right"><a href="https://prettyhub.vercel.app/thinakaranmanokaran"> <picture>
+<!-- <p align="right"><a href="https://prettyhub.vercel.app/thinakaranmanokaran"> <picture>
     <source srcset="public/images/prettyhub-dark.png" media="(prefers-color-scheme: dark)" width="500px">
     <img src="public/images/prettyhub-light.png" alt="App" width="500px">
   </picture></a>
-</p>
+</p> -->
 <hr>
 <br>
 
@@ -51,6 +51,9 @@
   </a>
   <a href="https://twitter.com/DheenaManohar" target="_blank" style="text-decoration:none;">
     <img src="public/images/twitter.png" width="150" alt="Twitter">
+  </a>
+  <a href="https://prettyhub.vercel.app/thinakaranmanokaran" target="_blank" style="text-decoration:none;">
+    <img src="public/images/prettyhub.png" width="160" alt="Twitter">
   </a>
 </p>
 
