@@ -124,38 +124,42 @@
   </div>
 </div>
 
+<br>
+<hr>
+<br>
 
+<p align="center">
+  <picture>
+    <source srcset="public/images/achieve-dark.png" media="(prefers-color-scheme: dark)" width="470">
+    <img src="public/images/achieve-light.png" alt="Skills" width="470">
+  </picture>
+</p>
 
-
-![](https://github-readme-stats.vercel.app/api?username=thinakaranmanokaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thinakaranmanokaran&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinakaranmanokaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thinakaranmanokaran&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thinakaranmanokaran&limit=5&theme=calm&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=thinakaranmanokaran&icon=2&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<style>
-@media (prefers-color-scheme: dark) {
-  .light-mode { display: none; }
-  .dark-mode { display: block; }
-}
-
-@media (prefers-color-scheme: light) {
-  .light-mode { display: block; }
-  .dark-mode { display: none; }
-}
-a{
-  text-decoration: none;
-}
-</style>
+<div align="center">
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; margin-top:20px;">
+    <picture title="GalaxyBrain: Creative problem-solving and innovative contributions.">
+      <source srcset="public/images/achievements/GalaxyBrain-dark.png" media="(prefers-color-scheme: dark)">
+      <img src="public/images/achievements/GalaxyBrain-light.png" alt="GalaxyBrain" width="300">
+    </picture>
+    <picture title="PairExtraordinaire: Outstanding teamwork in pair programming sessions.">
+      <source srcset="public/images/achievements/PairExtraordinaire-dark.png" media="(prefers-color-scheme: dark)">
+      <img src="public/images/achievements/PairExtraordinaire-light.png" alt="PairExtraordinaire" width="300">
+    </picture>
+    <picture title="PullShark: High-quality pull requests merged promptly.">
+      <source srcset="public/images/achievements/PullShark-dark.png" media="(prefers-color-scheme: dark)">
+      <img src="public/images/achievements/PullShark-light.png" alt="PullShark" width="300">
+    </picture>
+    <picture title="QuickDraw: Fast and precise completion of coding challenges.">
+      <source srcset="public/images/achievements/QuickDraw_dark.png" media="(prefers-color-scheme: dark)">
+      <img src="public/images/achievements/QuickDraw_light.png" alt="QuickDraw" width="300">
+    </picture>
+    <picture title="StarStruck: Gained recognition from the community via stars.">
+      <source srcset="public/images/achievements/StarStruck-dark.png" media="(prefers-color-scheme: dark)">
+      <img src="public/images/achievements/StarStruck-light.png" alt="StarStruck" width="300">
+    </picture>
+    <picture title="YOLO Badge: Bold contributions pushing project boundaries.">
+      <source srcset="public/images/achievements/YOLO_Badge-dark.png" media="(prefers-color-scheme: dark)">
+      <img src="public/images/achievements/YOLO_Badge-light.png" alt="YOLO Badge" width="300">
+    </picture>
+  </div>
+</div>
