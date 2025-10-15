@@ -99,17 +99,20 @@
 ### 🧩 Recent Events
 ![Recent Events](https://thinakaran-github.onrender.com/events.svg?username=thinakaranmanokaran) -->
 
-### 🔥 Current Week Commits
-![Commit Streaks](https://thinakaran-github.onrender.com/streaks.svg?username=thinakaranmanokaran)
+### 🔥 Current Week Commits 
+<img src="https://thinakaran-github.onrender.com/current-week-commits.svg?username=thinakaranmanokaran" width="200"> 
 
-### 🔥 Commit Streaks
-![Commit Streaks](https://thinakaran-github.onrender.com/streaks.svg?username=thinakaranmanokaran)
+### 🔥 Commit Streaks 
+![Commit Streaks](https://thinakaran-github.onrender.com/streaks.svg?username=thinakaranmanokaran) 
 
-### 🔥 Longest Streak
-![Commit Streaks](https://thinakaran-github.onrender.com/streaks.svg?username=thinakaranmanokaran)
+### 🔥 Longest Streak 
+![Commit Streaks](https://thinakaran-github.onrender.com/long-streaks.svg?username=thinakaranmanokaran)
 
 ### ⭐ Total Repo Stars
 ![Repository Stars](https://thinakaran-github.onrender.com/stars.svg?username=thinakaranmanokaran)
+
+### ⭐ Total Repo Stars
+![Repository Stars](http://localhost:5000/top-starred.svg?username=thinakaranmanokaran)
 
 ### 👥 Followers
 ![Followers](https://thinakaran-github.onrender.com/followers.svg?username=thinakaranmanokaran)
