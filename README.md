@@ -10,7 +10,9 @@
     <img src="public/images/name-light.png" alt="Name">
   </picture>
 </p>
-<br>
+<p align="right" style="display: flex; align-items: center; gap: 5px; justify-content: end;">
+  Open this Profile on Prettyhub <a href="https://prettyhub.vercel.app/thinakaranmanokaran"><img src="public/images/prettyhub.png" width="100"></a>
+</p>
 <hr>
 <br>
 
