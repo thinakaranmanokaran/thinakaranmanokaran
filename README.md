@@ -11,8 +11,8 @@
   </picture>
 </p>
 <p align="right"><a href="https://prettyhub.vercel.app/thinakaranmanokaran"> <picture>
-    <source srcset="public/images/prettyhub-dark.png" media="(prefers-color-scheme: dark)">
-    <img src="public/images/prettyhub-light.png" alt="App">
+    <source srcset="public/images/prettyhub-dark.png" media="(prefers-color-scheme: dark)" width="500px">
+    <img src="public/images/prettyhub-light.png" alt="App" width="500px">
   </picture></a>
 </p>
 <hr>
