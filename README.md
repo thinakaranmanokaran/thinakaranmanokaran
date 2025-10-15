@@ -90,32 +90,40 @@
   </picture>
 </p>
 
-<!-- ### 🏆 Top Repositories
-![Repositories](https://thinakaran-github.onrender.com/github-feed.svg)
+<div align="center">
+  <!-- First row -->
+  <div>
+    <picture>
+      <source srcset="https://thinakaran-github.onrender.com/dark/stars.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/light/stars.svg?username=thinakaranmanokaran" alt="Repository Stars">
+    </picture>
+    <picture>
+      <source srcset="https://thinakaran-github.onrender.com/dark/top-starred.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/light/top-starred.svg?username=thinakaranmanokaran" alt="Top Stars">
+    </picture>
+    <picture>
+      <source srcset="https://thinakaran-github.onrender.com/dark/followers.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/light/followers.svg?username=thinakaranmanokaran" alt="Followers">
+    </picture>
+  </div>
 
-### 🕓 Recent Commits
-![Recent Commits](https://thinakaran-github.onrender.com/commits.svg?owner=thinakaranmanokaran&repo=LinkSet)
+  <!-- Second row: 3 stats -->
+  <div>
+    <picture>
+      <source srcset="https://thinakaran-github.onrender.com/dark/current-week-commits.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/light/current-week-commits.svg?username=thinakaranmanokaran" alt="Current Week Commits">
+    </picture>
+    <picture>
+      <source srcset="https://thinakaran-github.onrender.com/dark/streaks.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/light/streaks.svg?username=thinakaranmanokaran" alt="Commit Streaks">
+    </picture>
+    <picture>
+      <source srcset="https://thinakaran-github.onrender.com/dark/long-streaks.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/light/long-streaks.svg?username=thinakaranmanokaran" alt="Longest Streak">
+    </picture>
+  </div>
+</div>
 
-### 🧩 Recent Events
-![Recent Events](https://thinakaran-github.onrender.com/events.svg?username=thinakaranmanokaran) -->
-
-### 🔥 Current Week Commits 
-<img src="https://thinakaran-github.onrender.com/current-week-commits.svg?username=thinakaranmanokaran" width="200"> 
-
-### 🔥 Commit Streaks 
-![Commit Streaks](https://thinakaran-github.onrender.com/streaks.svg?username=thinakaranmanokaran) 
-
-### 🔥 Longest Streak 
-![Commit Streaks](https://thinakaran-github.onrender.com/long-streaks.svg?username=thinakaranmanokaran)
-
-### ⭐ Total Repo Stars
-![Repository Stars](https://thinakaran-github.onrender.com/stars.svg?username=thinakaranmanokaran)
-
-### ⭐ Total Repo Stars
-![Repository Stars](http://localhost:5000/top-starred.svg?username=thinakaranmanokaran)
-
-### 👥 Followers
-![Followers](https://thinakaran-github.onrender.com/followers.svg?username=thinakaranmanokaran)
 
 
 
