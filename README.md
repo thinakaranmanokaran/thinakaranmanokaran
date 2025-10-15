@@ -94,32 +94,32 @@
   <!-- First row -->
   <div>
     <picture title="Totla Stars">
-      <source srcset="https://thinakaran-github.onrender.com/light/stars.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
-      <img src="https://thinakaran-github.onrender.com/dark/stars.svg?username=thinakaranmanokaran" alt="Repository Stars">
+      <source srcset="https://thinakaran-github.onrender.com/light/stars.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/dark/stars.svg" alt="Repository Stars">
     </picture>
     <picture title="No.of Stars in Top Repo">
-      <source srcset="https://thinakaran-github.onrender.com/light/top-starred.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
-      <img src="https://thinakaran-github.onrender.com/dark/top-starred.svg?username=thinakaranmanokaran" alt="Top Stars">
+      <source srcset="https://thinakaran-github.onrender.com/light/top-starred.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/dark/top-starred.svg" alt="Top Stars">
     </picture>
     <picture title="Total Followers">
-      <source srcset="https://thinakaran-github.onrender.com/light/followers.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
-      <img src="https://thinakaran-github.onrender.com/dark/followers.svg?username=thinakaranmanokaran" alt="Followers">
+      <source srcset="https://thinakaran-github.onrender.com/light/followers.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/dark/followers.svg" alt="Followers">
     </picture>
   </div>
 
   <!-- Second row: 3 stats -->
   <div>
     <picture title="Current Week Commits">
-      <source srcset="https://thinakaran-github.onrender.com/light/current-week-commits.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
-      <img src="https://thinakaran-github.onrender.com/dark/current-week-commits.svg?username=thinakaranmanokaran" alt="Current Week Commits">
+      <source srcset="https://thinakaran-github.onrender.com/light/current-week-commits.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/dark/current-week-commits.svg" alt="Current Week Commits">
     </picture>
     <picture title="Current Streak">
-      <source srcset="https://thinakaran-github.onrender.com/light/streaks.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
-      <img src="https://thinakaran-github.onrender.com/dark/streaks.svg?username=thinakaranmanokaran" alt="Commit Streaks">
+      <source srcset="https://thinakaran-github.onrender.com/light/streaks.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/dark/streaks.svg" alt="Commit Streaks">
     </picture>
     <picture title="Long Streak Maintained">
-      <source srcset="https://thinakaran-github.onrender.com/light/long-streaks.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
-      <img src="https://thinakaran-github.onrender.com/dark/long-streaks.svg?username=thinakaranmanokaran" alt="Longest Streak">
+      <source srcset="https://thinakaran-github.onrender.com/light/long-streaks.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://thinakaran-github.onrender.com/dark/long-streaks.svg" alt="Longest Streak">
     </picture>
   </div>
 </div>
