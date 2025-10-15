@@ -139,27 +139,27 @@
   <div style="display:flex; justify-content:center; flex-wrap:wrap; margin-top:20px;">
     <picture title="GalaxyBrain: Creative problem-solving and innovative contributions.">
       <source srcset="public/images/achievements/GalaxyBrain-dark.png" media="(prefers-color-scheme: dark)">
-      <img src="public/images/achievements/GalaxyBrain-light.png" alt="GalaxyBrain" width="300">
+      <img src="public/images/achievements/GalaxyBrain-light.png" alt="GalaxyBrain" width="250">
     </picture>
     <picture title="PairExtraordinaire: Outstanding teamwork in pair programming sessions.">
       <source srcset="public/images/achievements/PairExtraordinaire-dark.png" media="(prefers-color-scheme: dark)">
-      <img src="public/images/achievements/PairExtraordinaire-light.png" alt="PairExtraordinaire" width="300">
+      <img src="public/images/achievements/PairExtraordinaire-light.png" alt="PairExtraordinaire" width="250">
     </picture>
     <picture title="PullShark: High-quality pull requests merged promptly.">
       <source srcset="public/images/achievements/PullShark-dark.png" media="(prefers-color-scheme: dark)">
-      <img src="public/images/achievements/PullShark-light.png" alt="PullShark" width="300">
+      <img src="public/images/achievements/PullShark-light.png" alt="PullShark" width="250">
     </picture>
     <picture title="QuickDraw: Fast and precise completion of coding challenges.">
       <source srcset="public/images/achievements/QuickDraw_dark.png" media="(prefers-color-scheme: dark)">
-      <img src="public/images/achievements/QuickDraw_light.png" alt="QuickDraw" width="300">
+      <img src="public/images/achievements/QuickDraw_light.png" alt="QuickDraw" width="250">
     </picture>
     <picture title="StarStruck: Gained recognition from the community via stars.">
       <source srcset="public/images/achievements/StarStruck-dark.png" media="(prefers-color-scheme: dark)">
-      <img src="public/images/achievements/StarStruck-light.png" alt="StarStruck" width="300">
+      <img src="public/images/achievements/StarStruck-light.png" alt="StarStruck" width="250">
     </picture>
     <picture title="YOLO Badge: Bold contributions pushing project boundaries.">
       <source srcset="public/images/achievements/YOLO_Badge-dark.png" media="(prefers-color-scheme: dark)">
-      <img src="public/images/achievements/YOLO_Badge-light.png" alt="YOLO Badge" width="300">
+      <img src="public/images/achievements/YOLO_Badge-light.png" alt="YOLO Badge" width="250">
     </picture>
   </div>
 </div>
