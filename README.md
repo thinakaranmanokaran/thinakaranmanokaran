@@ -11,7 +11,7 @@
   </picture>
 </p>
 <p align="right" style="display: flex; align-items: center; gap: 5px; justify-content: end;">
-  Open this Profile on Prettyhub <a href="https://prettyhub.vercel.app/thinakaranmanokaran"><img src="public/images/prettyhub.png" width="100"></a>
+  Open this Profile on Prettyhub <a href="https://prettyhub.vercel.app/thinakaranmanokaran"><img margin-bottom="10px" src="public/images/prettyhub.png" width="100"></a>
 </p>
 <hr>
 <br>
