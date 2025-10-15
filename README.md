@@ -93,7 +93,7 @@
 <div align="center">
   <!-- First row -->
   <div>
-    <picture>
+    <picture title="Hahaha">
       <source srcset="https://thinakaran-github.onrender.com/light/stars.svg?username=thinakaranmanokaran" media="(prefers-color-scheme: dark)">
       <img src="https://thinakaran-github.onrender.com/dark/stars.svg?username=thinakaranmanokaran" alt="Repository Stars">
     </picture>
